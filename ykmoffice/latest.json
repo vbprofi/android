@@ -1,6 +1,6 @@
 {
   "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://raw.githubusercontent.com/vbprofi/android/ykmoffice/main/app-latest.apk",
+  "versionName": "0.2",
+  "apkUrl": "https://github.com/vbprofi/android/raw/refs/heads/main/ykmoffice/app-latest.apk",
   "releaseNotes": "Verbesserungen und Bugfixes."
 }
